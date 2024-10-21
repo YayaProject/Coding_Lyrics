@@ -1,8 +1,10 @@
-# Follow Tiktok @yayaaa0712
-
 import sys
 import time
 from time import sleep
+
+# Jangan lupa Follow
+# Tiktok @yayaaa0712
+# Instagram @yayaa7._
 
 def print_lirik(): 
     baris = [
