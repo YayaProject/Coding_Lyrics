@@ -1,3 +1,5 @@
+# Follow Tiktok @yayaaa0712
+
 import sys
 import time
 from time import sleep
