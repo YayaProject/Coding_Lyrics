@@ -3,6 +3,10 @@ from threading import Thread, Lock
 import sys
 from colorama import Fore, Style, init
 
+# Jangan lupa Follow
+# Tiktok @yayaaa0712
+# Instagram @yayaa7._
+
 init(autoreset=True)
 
 lock = Lock()
